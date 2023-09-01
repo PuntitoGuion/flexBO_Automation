@@ -1,0 +1,27 @@
+{
+    "LoginFlex":{
+                "input_UserLogin": "//*[@id='layout']/form/fieldset[1]/input"
+    },
+    "HomeFlex":{
+                "btn_FlexCash": "//*[@id='root']/div/div[2]/div[2]/menu/nav[1]/div/i",
+                "wait_Load":"//div[@id='root']/div/div[4]/div/div/div[2]/p",
+                "btn_CierreCajero": "//*[@id='root']/div/div[2]/div[2]/menu/nav[1]/nav[1]/div/a"
+    },
+    "ShiftsCloseFlex":{
+                "table_CierreCajero": "//div[@id='table-scroll']/table"
+    },
+    "SaveValueShift":{
+                "input_PES": "//*[@id='remoteshiftclose']/section/div[2]/div/div[2]/div[1]/fieldset/div/div/div/input",
+                "btn_Guardar": "//*[@id='remoteshiftclose']/section/div[1]/div[3]/button[2]",
+                "btn_AceptarCierreCajero":"//*[@id='Aceptar-button']",
+                "btn_AceptarPrePDF": "//div[@id='modal-content']/nav/button"
+    },
+    "ticketreprinting":{
+                "table_Comprobantes": "//div[@id='root']/div/main/section/div[2]/div",
+                "wait_load":"//div[@id='root']/div/div[4]/div/div/div[2]/p",
+                "wait_load2":"//div[@id='root']/div/main/div/div/div/div[2]/p",
+                "comboBox_Operacion":"//div[@id='root']/div/main/section/div/form/fieldset[3]/select",
+                "btn_Lupa":"//div[@id='root']/div/main/section/div/form/button/i"
+    }
+
+}

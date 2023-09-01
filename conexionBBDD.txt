@@ -1,0 +1,13 @@
+    host="127.0.0.1",
+    port="5432",
+    user="Nivel3corp",
+    password="Pass.Nivel03c",
+    database="flex_AR"
+
+Tabla tld_pos: Ver el status de las pos (opened, logged, closed)
+
+Tabla Shifts: Total de venta del cajero de turno, en la columna gross_sale_amount
+
+
+user flex: 111
+pass: FlexCash1!

@@ -1,0 +1,9 @@
+{
+    "PageFlex":"http://localhost:6699/login",
+    "ip":"127.0.0.1",
+    "puerto":"5432",
+    "usuario":"Nivel3corp",
+    "contrasenia":"Pass.Nivel03c",
+    "baseDeDatos":"flex_AR",
+    "CasosDePrueba":[2]
+}
